@@ -1,0 +1,24 @@
+{
+  "name": "interview-fullstack",
+  "version": "1.0.0",
+  "description": "fullstack, onestack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dothanhlam/interview-fullstack.git"
+  },
+  "keywords": [
+    "ed6",
+    "js",
+    "whatever"
+  ],
+  "author": "lamdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dothanhlam/interview-fullstack/issues"
+  },
+  "homepage": "https://github.com/dothanhlam/interview-fullstack#readme"
+}
